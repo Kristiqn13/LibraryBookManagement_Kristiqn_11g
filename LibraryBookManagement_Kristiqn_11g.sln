@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryBookManagement_Kristiqn_11g", "LibraryBookManagement_Kristiqn_11g\LibraryBookManagement_Kristiqn_11g.csproj", "{EE7D4498-BAED-44D7-8A9F-3148117F6EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7D4498-BAED-44D7-8A9F-3148117F6EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7D4498-BAED-44D7-8A9F-3148117F6EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7D4498-BAED-44D7-8A9F-3148117F6EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7D4498-BAED-44D7-8A9F-3148117F6EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D4538E-F070-4FEF-9D9C-8C9FB367751C}
+	EndGlobalSection
+EndGlobal
